@@ -1,0 +1,21 @@
+#logo {
+	width: 60%;
+}
+
+main {
+	width: 70%;
+	padding: 2% 4%;
+	background-image: url("border_background.png");
+	background-size: 100% 100%;
+	min-width: 882px;
+	margin: auto;
+}
+
+.row div {
+	margin: 1em;
+}
+
+.row img {
+	max-width: max-content;
+	width: 100%;
+}
